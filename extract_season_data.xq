@@ -1,0 +1,24 @@
+<seasonData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd">
+{
+return
+            <seasonData>
+                <season>
+                    <competition>
+                        <name></name>
+                        <gender></gender>
+                    </competition>
+                    <name></name>
+                    <date>
+                        <start></start>
+                        <end></end>
+                        <year></year>
+                    </date>
+                </season>
+                <stages>
+                    <stage>
+                        <groups>
+                        </groups>
+                    </stage>
+                </stages>               
+            </seasonData>
+}

@@ -1,15 +1,16 @@
 #!/bin/bash
 
+# Global constants
 export API_KEY="2f9npdypfkpd8e7thcjnssd5"
 delay=1.1
-
-rm *.xml
 
 # Validate argument number
 if [ $# -ne 2 ]; then
   echo "Invalid argument number. Arguments must be Prefix - Year".
   exit 1
 fi
+
+rm *.xml*
 
 echo "Processing league: $1 $2"
 
@@ -26,7 +27,10 @@ echo "Downloaded seasons.xml"
 
 # Get season_id from seasons.xml with xQuery
 season_id=`java net.sf.saxon.Query -q:extract_season_id.xq season_prefix=$1 season_year=$2 | cut -d ">" -f 2`
+
 echo "Selected season with id ${season_id}"
+
+
 # Download season_info.xml
 curl -s http://api.sportradar.us/rugby-league/trial/v3/en/seasons/${season_id}/info.xml?api_key=${API_KEY} -o season_info.xml
 sleep $delay

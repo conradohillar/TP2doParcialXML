@@ -1,6 +1,4 @@
-declare variable $prefix as xs:string external;
-declare variable $year as xs:string external;
+declare variable $season_prefix as xs:string external;
+declare variable $season_year as xs:string external;
 
-for $season in doc("seasons.xml")//season
-where starts-with($season/@name, $prefix) and ($season/@year = $year)
-return data($season/@id)
+data(doc("seasons.xml")//season[starts-with(@name, $season_prefix) and (@year = $season_year)][1]/@id)

@@ -6,7 +6,7 @@ declare function local:doc_if_valid($file as xs:string) as node() {
     <myRoot><error>Invalid file '{$file}'</error></myRoot>
 };  
 
-declare function local:competitor_getter($group as element()) as element()* {
+declare function local:competitor_getter($group as element()*) as element()* {
     for $competitor in $group//competitor
     return element competitor {
         attribute id {$competitor/@id},
@@ -31,28 +31,31 @@ declare function local:stage_getter($xml as document-node()) as element()* {
     }      
 };
 
-declare function local:player_getter($xml as element()) as element()* {
-    for $player in $xml//player
+declare function local:player_getter($xml as document-node(), $competitor as element()*) as element()* {
+    let $players := $xml//competitor[@id=$competitor/@id]//player/@id
+    for $player in distinct-values($players)
     return element player {
-        <name></name>
-        <type></type>
-        <date_of_birth></date_of_birth>
-        <nationality></nationality>
-        <events_played></events_played>                        
-    }
-}
-
-declare function local:competitor_lineup_getter($xml as document-node()) as element()* {
-    for $competitor in $xml//lineups/competitors/competitor
-    return element competitor {
-        attribute id {$competitor/@id},
-        <name>{$competitor/@name/string()}</name>,
-        <players>{local:player_getter($competitor)}</players>
+        <name>{($xml//player[@id = $player])[1]/@name/string()[1]}</name>,
+        <type>{($xml//player[@id = $player])[1]/@type/string()[1]}</type>,
+        <date_of_birth>{($xml//player[@id = $player])[1]/@date_of_birth/string()[1]}</date_of_birth>,
+        <nationality>{($xml//player[@id = $player])[1]/@nationality/string()[1]}</nationality>,
+        <events_played>{count($xml//player[@id = $xml//player[@id = $player][1]/@id and @played = "true"])}</events_played>    
     }
 };
 
-let $info := doc("season_info.xml")
-let $lineups := doc("season_lineups.xml")
+
+declare function local:competitor_lineup_getter($xml as document-node(), $competitors as element()*) as element()* {
+    for $competitor in $competitors
+    return element competitor {
+        attribute id {$competitor/@id},
+        <name>{$competitor/@name/string()}</name>,
+        <players>{local:player_getter($xml, $competitor)}</players>
+    }
+};
+
+let $info := local:doc_if_valid("season_info.xml")
+let $lineups := local:doc_if_valid("season_lineups.xml")
+let $competitors := local:stage_getter($info)//competitor
 
 return
             <seasonData>
@@ -72,6 +75,6 @@ return
                     {local:stage_getter($info)}
                 </stages>
                 <competitors>
-                    {local:competitor_lineup_getter($lineups)}
+                    {local:competitor_lineup_getter($lineups, $competitors)}
                 </competitors>               
             </seasonData>

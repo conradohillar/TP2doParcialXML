@@ -3,6 +3,8 @@
 export API_KEY="2f9npdypfkpd8e7thcjnssd5"
 delay=1.1
 
+rm *.xml
+
 # Validate argument number
 if [ $# -ne 2 ]; then
   echo "Invalid argument number. Arguments must be Prefix - Year".
@@ -33,7 +35,7 @@ echo "Downloaded season_info.xml"
 
 
 # Download season_lineups.xml
-curl -s http://api.sportradar.us/rugby-league/trial/v3/en/seasons/${season_id}/info.xml?api_key=${API_KEY} -o season_lineups.xml
+curl -s http://api.sportradar.us/rugby-league/trial/v3/en/seasons/${season_id}/lineups.xml?api_key=${API_KEY} -o season_lineups.xml 
 sleep $delay
 
 echo "Downloaded season_lineups.xml"

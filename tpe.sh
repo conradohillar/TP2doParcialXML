@@ -10,7 +10,7 @@ if [ $# -ne 2 ]; then
   exit 1
 fi
 
-rm *.xml*
+rm *.xml
 
 echo "Processing league: $1 $2"
 
@@ -50,8 +50,9 @@ sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby
 
 echo "Downloaded season_lineups.xml"
 
+rm *.xml-e
 
 # Generate season_data.xml with xQuery
-java net.sf.saxon.Query -q:extract_season_data.xq > season_dataaa.xml
+java net.sf.saxon.Query -q:extract_season_data.xq > season_data.xml
 
 echo Generated extract_season_data.xml

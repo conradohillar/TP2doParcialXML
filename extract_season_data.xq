@@ -34,21 +34,22 @@ declare function local:stage_getter($xml as document-node()) as element()* {
 declare function local:player_getter($xml as document-node(), $competitor as element()*) as element()* {
     let $players := $xml//competitor[@id=$competitor/@id]//player/@id
     for $player in distinct-values($players)
+    let $p := ($xml//player[@id = $player])[1]
     return element player {
-        <name>{($xml//player[@id = $player])[1]/@name/string()[1]}</name>,
-        <type>{($xml//player[@id = $player])[1]/@type/string()[1]}</type>,
-        <date_of_birth>{($xml//player[@id = $player])[1]/@date_of_birth/string()[1]}</date_of_birth>,
-        <nationality>{($xml//player[@id = $player])[1]/@nationality/string()[1]}</nationality>,
+        <name>{$p/@name/string()}</name>,
+        <type>{$p/@type/string()}</type>,
+        <date_of_birth>{$p/@date_of_birth/string()}</date_of_birth>,
+        <nationality>{$p/@nationality/string()}</nationality>,
         <events_played>{count($xml//player[@id = $xml//player[@id = $player][1]/@id and @played = "true"])}</events_played>    
     }
 };
 
-
 declare function local:competitor_lineup_getter($xml as document-node(), $competitors as element()*) as element()* {
+    
     for $competitor in $competitors
     return element competitor {
         attribute id {$competitor/@id},
-        <name>{$competitor/@name/string()}</name>,
+        <name>{$competitor/name/string()}</name>,
         <players>{local:player_getter($xml, $competitor)}</players>
     }
 };
@@ -58,23 +59,23 @@ let $lineups := local:doc_if_valid("season_lineups.xml")
 let $competitors := local:stage_getter($info)//competitor
 
 return
-            <seasonData>
-                <season>
-                    <competition>
-                        <name>{$info//season/competition/@name/string()}</name>
-                        <gender>{$info//season/competition/@gender/string()}</gender>
-                    </competition>
-                    <name>{$info//season/@name/string()}</name>
-                    <date>
-                        <start>{$info//season/@start_date/string()}</start>
-                        <end>{$info//season/@end_date/string()}</end>
-                        <year>{$info//season/@year/string()}</year>
-                    </date>
-                </season>  
-                <stages>
-                    {local:stage_getter($info)}
-                </stages>
-                <competitors>
-                    {local:competitor_lineup_getter($lineups, $competitors)}
-                </competitors>               
-            </seasonData>
+<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
+    <season>
+        <name>{$info//season/@name/string()}</name>
+        <competition>
+            <name>{$info//season/competition/@name/string()}</name>
+            <gender>{$info//season/competition/@gender/string()}</gender>
+        </competition>
+        <date>
+            <start>{$info//season/@start_date/string()}</start>
+            <end>{$info//season/@end_date/string()}</end>
+            <year>{$info//season/@year/string()}</year>
+        </date>
+    </season>  
+    <stages>
+        {local:stage_getter($info)}
+    </stages>
+    <competitors>
+        {local:competitor_lineup_getter($lineups, $competitors)}
+    </competitors>               
+</season_data>

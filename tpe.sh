@@ -51,5 +51,7 @@ sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby
 echo "Downloaded season_lineups.xml"
 
 
+# Generate season_data.xml with xQuery
+java net.sf.saxon.Query -q:extract_season_data.xq > season_dataaa.xml
 
-echo extract_season_data.xq: `java net.sf.saxon.Query -q:extract_season_data.xq`
+echo Generated extract_season_data.xml

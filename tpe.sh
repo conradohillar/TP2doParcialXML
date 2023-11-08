@@ -34,6 +34,9 @@ echo "Selected season with id ${season_id}"
 # Download season_info.xml
 curl -s http://api.sportradar.us/rugby-league/trial/v3/en/seasons/${season_id}/info.xml?api_key=${API_KEY} -o season_info.xml
 sleep $delay
+# Delete namespace from seasons.xml
+sed -i'' -e 's@xmlns="http://schemas.sportradar.com/sportsapi/rugby-league/v3"@@g' season_info.xml
+sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby-league/v3 https://schemas.sportradar.com/sportsapi/rugby-league/v3/schemas/season_info.xsd"@@g' season_info.xml
 
 echo "Downloaded season_info.xml"
 
@@ -41,5 +44,12 @@ echo "Downloaded season_info.xml"
 # Download season_lineups.xml
 curl -s http://api.sportradar.us/rugby-league/trial/v3/en/seasons/${season_id}/lineups.xml?api_key=${API_KEY} -o season_lineups.xml 
 sleep $delay
+# Delete namespace from seasons.xml
+sed -i'' -e 's@xmlns="http://schemas.sportradar.com/sportsapi/rugby-league/v3"@@g' season_lineups.xml
+sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby-league/v3 https://schemas.sportradar.com/sportsapi/rugby-league/v3/schemas/season_lineups.xsd"@@g' season_lineups.xml
 
 echo "Downloaded season_lineups.xml"
+
+
+
+echo extract_season_data.xq: `java net.sf.saxon.Query -q:extract_season_data.xq`

@@ -11,6 +11,7 @@ if [ $# -ne 2 ]; then
 fi
 
 rm *.xml
+rm 
 
 echo "Processing league: $1 $2"
 

@@ -31,7 +31,7 @@
 <xsl:text>| Name | Type | Date of birth | Nationality | Events played |</xsl:text><xsl:text>&#10;</xsl:text>
 <xsl:text>|---|---|---|---|---|</xsl:text><xsl:text>&#10;</xsl:text>
 <xsl:for-each select="players/player">
-<xsl:sort select="events_played" order="descending"></xsl:sort>
+<xsl:sort select="events_played" order="descending" data-type="number"></xsl:sort>
 <xsl:text>|</xsl:text><xsl:value-of select="name" /><xsl:text>|</xsl:text><xsl:value-of select="type" /><xsl:text>|</xsl:text><xsl:value-of select="date_of_birth" /><xsl:text>|</xsl:text><xsl:value-of select="nationality" /><xsl:text>|</xsl:text><xsl:value-of select="events_played" /><xsl:text>|</xsl:text><xsl:text>&#10;</xsl:text>
 </xsl:for-each>
 </xsl:for-each>

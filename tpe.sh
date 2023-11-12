@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Global constants
-export API_KEY="2f9npdypfkpd8e7thcjnssd5"
 delay=1.1
 
 

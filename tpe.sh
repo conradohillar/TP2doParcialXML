@@ -4,14 +4,13 @@
 export API_KEY="2f9npdypfkpd8e7thcjnssd5"
 delay=1.1
 
+
 # Validate argument number
 if [ $# -ne 2 ]; then
-  echo "Invalid argument number. Arguments must be Prefix - Year".
-  exit 1
+  echo "Invalid argument amount. Arguments must be Prefix - Year"
 fi
 
-rm *.xml
-rm 
+rm *.xml 2> /dev/null || true
 
 echo "Processing league: $1 $2"
 
@@ -25,9 +24,9 @@ sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby
 
 echo "Downloaded seasons.xml"
 
-
 # Get season_id from seasons.xml with xQuery
 season_id=`java net.sf.saxon.Query -q:extract_season_id.xq season_prefix=$1 season_year=$2 | cut -d ">" -f 2`
+
 
 echo "Selected season with id ${season_id}"
 
@@ -52,7 +51,7 @@ sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby
 echo "Downloaded season_lineups.xml"
 
 # Generate season_data.xml with xQuery
-java net.sf.saxon.Query -q:extract_season_data.xq > season_data.xml
+java net.sf.saxon.Query -q:extract_season_data.xq season_prefix=$1 season_year=$2 > season_data.xml
 
 echo Generated extract_season_data.xml
 

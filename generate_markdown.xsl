@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 <xsl:output omit-xml-declaration="yes" />
+
 <xsl:template match="//season">
 <xsl:text># Season </xsl:text><xsl:value-of select="name" /> <xsl:text>&#10;</xsl:text>
 <xsl:text>### Competition: </xsl:text><xsl:value-of select="competition/name" /><xsl:text>&#10;</xsl:text>
@@ -35,13 +36,7 @@
 </xsl:for-each>
 </xsl:for-each>
 </xsl:template>
+<xsl:template match="//error">
+<xsl:value-of select="."/>
+</xsl:template>
 </xsl:stylesheet>
- 
-
-<!-- 
-<xsl:template match="/data/projects" />
-<xsl:template match="/data/persons" />
-<xsl:for-each select="client">
-  <xsl:sort select="./name" order="ascending" />
-  <xsl:value-of select="." />
-</xsl:for-each> -->

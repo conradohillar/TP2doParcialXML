@@ -58,34 +58,32 @@ declare function local:competitor_lineup_getter($xml as document-node(), $compet
 declare variable $season_prefix as xs:string external;
 declare variable $season_year as xs:string external;
 
+declare function local:get_error($info as node()) as xs:string {
+    if (not(normalize-space($season_year))) then
+        "Year cannot be an empty string"
+    else if (not($season_year castable as xs:integer)) then
+        "Year must be integer number"
+    else if (not(normalize-space($season_prefix))) then
+        "Name cannot be an empty string"
+    else if ($info//page_not_found/@message = "Wrong identifier") then
+        "Season with requested ID does not exist (Internal API error)"
+    else if ($info//page_not_found/@message = "Invalid route.") then
+        "Season (ID) with requested parameters was not found"
+    else if ($info//h1/text() = "Developer Inactive") then
+        "API key is not valid. Developer is inactive."
+    else
+        ""
+};
+
 let $info := local:doc_if_valid("season_info.xml")
 let $lineups := local:doc_if_valid("season_lineups.xml")
 let $competitors := local:stage_getter($info)//competitor
+let $error_msg := local:get_error($info)
 
 return
-if (not(normalize-space($season_year))) then
+if (normalize-space($error_msg)) then
 <season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>Year cannot be an empty string</error>
-</season_data>
-else if (not($season_year castable as xs:integer)) then
-<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>Year must be integer number</error>
-</season_data>
-else if (not(normalize-space($season_prefix))) then
-<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>Name cannot be an empty string</error>
-</season_data>
-else if ($info//page_not_found/@message = "Wrong identifier") then
-<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>Season with requested ID does not exist (Internal API error)</error>
-</season_data>
-else if ($info//page_not_found/@message = "Invalid route.") then
-<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>Season (ID) with requested parameters was not found</error>
-</season_data>
-else if ($info//h1/text() = "Developer Inactive") then
-<season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 
-    <error>API key is not valid. Developer is inactive.</error>
+    <error>{$error_msg}</error>
 </season_data>
 else
 <season_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./data/season_data.xsd"> 

@@ -16,7 +16,7 @@ if [ -z $API_KEY ]; then
 fi
 
 rm *.xml 2> /dev/null || true
-rm season_page.md
+rm season_page.md 2> /dev/null || true
 
 echo "Processing league: $1 $2"
 

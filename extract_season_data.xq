@@ -50,7 +50,7 @@ declare function local:competitor_lineup_getter($xml as document-node(), $compet
     let $competitor := ($xml//competitor[@id=$uniquecompetitor])[1]
     return element competitor {
         attribute id {$competitor/@id},
-        <name>{$competitor/@name}</name>,
+        <name>{$competitor/@name/string()}</name>,
         <players>{local:player_getter($xml, $competitor)}</players>
     }
 };

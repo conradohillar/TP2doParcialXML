@@ -1,447 +1,436 @@
-# Season Super League 2021
-### Competition: Super League
+# Season NRL 2015
+### Competition: NRL
 Gender: men
-#### Year: 2021. From: 2021-03-26 to 2021-10-09
+#### Year: 2015. From: 2015-03-05 to 2015-10-31
 ---
 ---
-#### regular season. From: 2021-03-26 to: 2021-09-19
+#### stage_1. From: 2015-03-05 to: 2015-09-07
 ---
 #### Competitors:
-- Warrington Wolves (WAR)
-- St Helens (STH)
-- Wakefield Trinity (WAK)
-- Leeds Rhinos (LEE)
-- Wigan Warriors (WGW)
-- Castleford Tigers (CAS)
-- Salford Red Devils (SAL)
-- Hull FC (HFC)
-- Hull Kingston Rovers (HKR)
-- Huddersfield Giants (HFG)
-- Leigh Leopards (LEL)
-- Catalans Dragons (CAT)
+- South Sydney Rabbitohs (SSY)
+- Sydney Roosters (SYD)
+- Canterbury-Bankstown Bulldogs (CBB)
+- Wests Tigers (WTG)
+- Manly Sea Eagles (MAN)
+- Melbourne Storm (MBS)
+- Canberra Raiders (CBR)
+- North Queensland Cowboys (NQU)
+- Brisbane Broncos (BRI)
+- Newcastle Knights (NEW)
+- Parramatta Eels (PAR)
+- Penrith Panthers (PEN)
+- St George Illawarra Dragons (SGI)
+- Cronulla-Sutherland Sharks (CSS)
+- New Zealand Warriors (WAR)
+- Gold Coast Titans (GCO)
+---
+---
+#### playoffs. From: 2015-09-11 to: 2015-10-31
+---
+#### Competitors:
+- Canterbury-Bankstown Bulldogs (CBB)
+- Melbourne Storm (MBS)
+- North Queensland Cowboys (NQU)
+- Brisbane Broncos (BRI)
+- South Sydney Rabbitohs (SSY)
+- Sydney Roosters (SYD)
+- St George Illawarra Dragons (SGI)
+- Cronulla-Sutherland Sharks (CSS)
 ---
 #### Teams
-#### Warrington Wolves
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Hill, Christopher|PR|1987-11-03|England|21|
-|Currie, Ben|BR|1994-07-15|England|21|
-|Ratchford, Stefan|C|1988-07-19|England|20|
-|Hughes, Jack|BR|1992-01-04|England|20|
-|Mamo, Jake|FB|1994-06-06|Australia|20|
-|King, Toby|C|1996-07-09|Ireland|19|
-|Charnley, Josh|W|1991-06-26|England|19|
-|Widdop, Gareth|FB|1989-03-12|England|18|
-|Cooper, Mike|PR|1988-09-15|England|17|
-|Austin, Blake|HB|1991-02-01|Australia|14|
-|Clark, Daryl|HO|1993-02-10|England|14|
-|Thewlis, Josh|FB|2002-04-30|England|14|
-|Lineham, Tom|W|1992-09-21|England|13|
-|Philbin, Joe|BR|1994-11-16|Ireland|11|
-|Davis, Matt|BR|1996-07-06|England|10|
-|Williams, George|HB|1994-10-31|England|8|
-|Walker, Danny|HO|1999-06-29|England|6|
-|Wrench, Connor|BR|2001-10-04|England|6|
-|Ashton, Matty|W|1998-07-28|England|4|
-|Clark, Jason|PR|1989-06-28|Australia|3|
-|Akauola, Sitaleki|FB|1992-04-07|New zealand|3|
+|Boyd, Darius|C|1987-07-17|Australia|5|
+|Reed, Jack|C|1988-07-15|England|5|
+|Hodges, Justin||1982-05-25||5|
+|Milford, Anthony|HB|1994-07-11|Samoa|5|
+|Hunt, Ben|HB|1990-03-27|Australia|5|
+|Thaiday, Sam|PR|1985-06-12|Australia|5|
+|McCullough, Andrew|HO|1990-01-30|Australia|5|
+|Blair, Adam|PR|1986-03-23|New zealand|5|
+|Gillett, Matt|BR|1988-08-12|Australia|5|
+|Parker, Corey|SR|1982-05-05|Australia|5|
+|Kahu, Jordan|FB|1991-01-28|New zealand|4|
+|Glenn, Alex|C|1988-07-31|New zealand|4|
+|Oates, Corey|W|1994-10-20|Australia|4|
+|Maranta, Lachlan|W|1992-04-17|Australia|2|
+|Wallace, Jarrod|PR|1991-07-23|Australia|1|
+|Dodds, Mitchell|PR|1989-07-03|Australia|0|
+|Ofahengaue, Joe|PR|1995-09-15|Tonga|0|
+|Nikorima, Kodi|HB|1994-04-03|New zealand|0|
+|Stagg, David||1983-10-18||0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Johnston, Alex|FB|1995-11-14|Papua new guinea|4|
+|Walker, Dylan|C|1994-07-27|Australia|4|
+|Auva'a, Kirisome|C|1992-02-23|Samoa|4|
+|Goodwin, Bryson|W|1985-12-30|Australia|4|
+|Reynolds, Adam|HB|1990-07-10|Australia|4|
+|Tyrrell, Dave|C|1988-10-09|Australia|4|
+|Turner, Kyle|BR|1992-02-20|Australia|4|
+|Burgess, George|PR|1992-04-21|England|3|
+|McInnes, Cameron|HO|1994-02-01|Australia|3|
+|McQueen, Chris|FB|1987-03-08|England|3|
+|Stewart, Glenn|SR|1984-01-11|Australia|3|
+|Keary, Luke|HB|1992-02-03|Ireland|3|
 |Inglis, Greg|C|1987-01-15|Australia|2|
-|Mulhern, Rob|C|1994-10-18|Ireland|1|
-|Longstaff, Ellis|BR|2002-07-05|England|1|
-|Whitehead, Tom|||England|1|
-|Butler, Rob|PR|1998-05-15|England|0|
-|Robson, Ellis|BR|1998-09-14|England|0|
-|Dean, Riley|HB|2001-08-10|England|0|
-|Doro, Eribe|UF|2001-03-26|England|0|
-|Burgess, Morgan|||England|0|
-#### St Helens
+|Sutton, John|BR|1984-11-05|Australia|2|
+|Reddy, Joel|C|1985-10-08||2|
+|Clark, Jason|PR|1989-06-28|Australia|1|
+|Burgess, Tom|PR|1992-04-21|England|1|
+|Luke, Issac|HO|1987-05-29|New zealand|1|
+|Abrahams, Keenan||1991-08-07||1|
+|Carter, Paul|UF|1992-05-23|Australia|0|
+|Grant, Tim|PR|1988-02-17|Australia|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Naiqama, Kevin|FB|1989-02-04|Fiji|21|
-|Roby, James|HO|1985-11-22|England|20|
-|Walmsley, Alex|UF|1990-04-10|England|20|
-|Grace, Regan|W|1996-12-12|Wales|19|
-|Lomax, Jonny|FB|1990-09-04|England|19|
-|Coote, Lachlan|FB|1990-04-06|Scotland|19|
-|Mata'utia, Sione|FB|1996-06-25|Samoa|17|
-|Percival, Mark|C|1994-05-29|England|17|
-|Welsby, Jack|HB|2001-03-12|England|16|
-|Knowles, Morgan|UF|1996-11-05|England|15|
-|Makinson, Tom|W|1991-10-10|England|14|
-|Thompson, Joel|C|1988-08-24|Australia|13|
-|Dodd, Lewis|HB|2002-01-27|England|12|
-|Lees, Matty|PR|1998-02-04|England|11|
-|Fages, Theo|HB|1994-08-23|France|10|
-|Batchelor, Joe|BR|1994-10-28|England|10|
-|McCarthy-Scarsbrook, Louie|PR|1986-01-14|Ireland|9|
-|Bentley, James|BR|1996-10-19|Ireland|8|
-|Simm, Josh|C|2001-02-27|England|4|
-|Amor, Kyle|PR|1987-05-26|Ireland|2|
-|Paasi, Agnatius|PR|1991-11-30|Tonga|2|
-|Smith, Aaron|HO|1996-10-12|England|2|
-|Wingfield, Jake|BR|2001-08-01|England|2|
-|Davies, Ben|C|2000-04-21|England|1|
-|Royle, Sam|BR|2000-02-12|England|1|
-|Bennison, Jonathan|W|2002-12-01|England|1|
-|Martin, Shay|||England|1|
-|Dan Norman|UF|1997-09-08|Ireland|0|
-|Eaves, Josh|HO|1997-10-20|England|0|
-#### Wakefield Trinity
-##### Players
-| Name | Type | Date of birth | Nationality | Events played |
-|---|---|---|---|---|
-|Lino, Mason|HB|1994-02-04|Samoa|23|
-|Miller, Jacob|HB|1992-08-22|Australia|20|
-|Tanginoa, Kelepi|PR|1994-01-03|Australia|20|
-|Lyne, Reece|UB|1992-12-02|England|19|
-|Pitts, Jay|UF|1989-12-09|England|19|
-|Kershaw, Lee|W|2000-05-02|England|19|
-|Arona, Tinirau|PR|1989-05-08|Cook islands|16|
-|Westerman, Joe|BR|1989-11-15|England|16|
-|Ashurst, Matthew|BR|1989-11-01|England|15|
-|Senior, Innes|W|2000-05-31|Ireland|15|
-|Arundel, Joe|C|1991-08-22|England|15|
-|Kay, Liam|W|1991-12-17|Ireland|15|
-|Jowitt, Max|FB|1997-05-06|England|13|
-|Hampshire, Ryan|FB|1994-12-29|England|12|
-|Johnstone, Tom|W|1995-08-13|England|10|
-|Walker, Brad|BR|1998-01-30|England|10|
-|Crowther, Jordan|PR|1997-02-19|England|9|
-|Batchelor, James|BR|1998-04-09|England|9|
-|Tupou, Bill|C|1990-02-07|New zealand|8|
-|Fifita, David|PR|1989-06-28|Australia|8|
-|Battye, Edward|PR|1991-07-24|England|7|
-|Green, Chris|PR|1990-01-03|England|5|
-|Wood, Kyle|HB|1989-06-18|England|3|
-|Ashall-Bott, Oliver|W|1997-11-24|England|2|
-|Walker, Alex|FB|1995-09-04|Scotland|1|
-|Wood, Josh|SH|1995-11-05|England|1|
-|Aydin, Yusuf|PR|2000-09-13|England|1|
-|Greensmith, Ollie|HO||England|1|
-|Tangata, Adam|PR|1991-05-17|Cook islands|0|
-|Eaves, Josh|HO|1997-10-20|England|0|
-|Bowes, Harry|BR||England|0|
-#### Leeds Rhinos
-##### Players
-| Name | Type | Date of birth | Nationality | Events played |
-|---|---|---|---|---|
-|Briscoe, Tom|W|1990-03-19|England|26|
-|Leeming, Kruise|HO|1995-09-07|Swaziland|23|
-|Prior, Matt|PR|1987-05-27|Australia|23|
-|Martin, Rhyse|SH|1993-03-01|Papua new guinea|23|
-|Myler, Richard|SH|1990-05-21|Ireland|20|
-|Briscoe, Luke|C|1994-03-11|England|20|
-|Handley, Ash|W|1996-02-16|England|18|
-|Oledzki, Mikolaj|PR|1998-11-08|England|14|
-|Mellor, Alex|BR|1994-09-24|England|14|
-|Newman, Harry|W|2000-02-19|England|14|
-|Tetevano, Zane|PR|1990-11-04|Cook islands|13|
-|Dwyer, Brad|HO|1993-04-28|England|13|
-|Hurrell, Konrad|C|1991-08-05|Tonga|13|
-|Sutcliffe, Liam|HB|1994-11-24|England|12|
-|Broadbent, Jack|BR|2001-11-01|England|12|
-|Thompson, Bodene|UF|1988-08-01|New zealand|12|
-|Gale, Luke|SH|1988-06-22|England|11|
-|Lui, Robert|HB|1990-02-23|Australia|11|
-|Donaldson, James|BR|1991-09-14|England|9|
-|O'Connor, Jarrod|BR||England|6|
-|Gannon, Morgan|BR||England|6|
-|Sutcliffe, Alex|C|1999-01-21|England|5|
-|Walters, Sam|BR||England|4|
-|Holroyd, Tom|PR|2001-02-09|England|4|
-|Smith, Cameron|BR|1998-11-07|England|3|
-|Vuniyayawa, King|BR|1995-03-13|Fiji|3|
-|McLelland, Callum|HB|1999-09-16|Scotland|3|
-|Eastmond, Kyle|W|1989-07-17|England|2|
-|Hall, Corey|C|2002-08-07|England|1|
-|Tindall, Liam|W|2001-09-27|England|0|
-|Johnson, Corey|HO|2000-11-16|England|0|
-#### Wigan Warriors
-##### Players
-| Name | Type | Date of birth | Nationality | Events played |
-|---|---|---|---|---|
-|Bibby, Jake|C|1996-06-17|England|26|
-|Farrell, Liam|BR|1990-07-02|England|23|
-|Smith, Harry|SH|2000-01-25|England|23|
-|Hastings, Jackson|UB|1996-01-04|Australia|23|
-|Partington, Oliver|BR|1998-09-03|England|22|
-|Powell, Sam|SH|1992-07-03|England|20|
-|Singleton, Brad|PR|1992-10-29|Ireland|20|
-|Isa, William|C|1989-01-01|New zealand|18|
-|Hardaker, Zak|FB|1991-10-17|England|16|
-|Smithies, Morgan|BR|2000-07-11|England|16|
-|Marshall, Liam|W|1996-05-09|England|16|
-|Gildart, Oliver|C|1996-08-06|England|15|
-|Bateman, John|BR|1993-09-30|England|14|
-|Leuluai, Thomas|SH|1985-06-22|New zealand|13|
-|Pearce-Paul, Kai|BR|2001-02-19|England|13|
-|Clubb, Tony|BR|1987-06-12|England|10|
-|Bullock, Joe|PR|1992-11-27|England|8|
-|Hanley, Umyla|FB|2002-03-05|England|8|
-|Havard, Ethan|PR|2000-10-26|England|8|
-|Shorrocks, Joe|BR|1999-11-25|England|7|
-|Halsall, Sam|C|2001-08-18|England|6|
-|French, Bevan|FB|1996-01-04|Australia|4|
-|Field, Jai|HB|1997-09-06|Australia|3|
-|Manfredi, Dominic|W|1993-10-01|England|3|
-|McDonnell, James|C|2000-01-12|Ireland|2|
-|O'Neill, Brad|||England|1|
-|Byrne, Liam|PR|1999-08-18|Ireland|0|
-|Clark, Mitch|PR|1993-03-30|England|0|
-|Bourouh, Amir|HO|2001-01-05|England|0|
-#### Castleford Tigers
-##### Players
-| Name | Type | Date of birth | Nationality | Events played |
-|---|---|---|---|---|
-|Olpherts, Derrell|FB|1992-01-07|England|20|
-|Evalds, Niall|W|1993-08-26|England|17|
-|Mata'utia, Peter|C|1990-11-02|Samoa|17|
-|Massey, Nathan|PR|1989-07-11|England|17|
-|McShane, Paul|HO|1989-11-19|England|16|
-|Turner, Jordan|C|1989-01-09|England|16|
-|Richardson, Danny|HB|1996-09-02|England|16|
-|Shenton, Michael|C|1986-07-22|England|15|
-|Holmes, Oliver|BR|1992-08-07|England|15|
-|Sene-Lefao, Jesse|BR|1989-12-08|New zealand|14|
-|Griffin, George|PR|1992-06-26|England|12|
-|Millington, Grant|PR|1986-11-01|Australia|10|
-|Smith, Daniel|PR|1993-03-20|England|10|
-|O'Brien, Gareth|FB|1991-10-31|England|9|
-|Milner, Adam|HO|1991-12-19|England|9|
-|Blair, Cheyse|C|1992-01-18|Australia|8|
-|Eden, Greg|FB|1990-11-14|England|8|
-|Trueman, Jacob|SH|1999-02-16|England|7|
-|Clare, James|W|1991-04-13|England|7|
-|Watts, Liam|PR|1990-07-08|England|6|
-|Foster, Alex|UF|1993-09-25|England|6|
-|Martin, Brad|BR|2001-02-06|England|5|
-|Hepi, Tyla|PR|1993-06-15|New zealand|2|
-|Matagi, Suaia|PR|1988-03-23|Samoa|2|
-|Qareqare, Jason|W||Fiji|2|
-|Graham, Brad|C||England|2|
-|Robb, Cain|HO|2001-01-05|England|2|
-|O'Neill, Jacques|HO|1999-05-02|England|1|
-|Bienek, Lewis|PR|1998-04-11|England|1|
-|Peachey, Lewis|BR|2001-03-25|England|1|
-|Hall, Sam|C||England|1|
-|Jordan, Caelum|||England|1|
-|Sadler, Jack|||England|1|
-|Rusling, Adam|||England|0|
-|Magee, Nathan||||0|
-|Keinhorst, Jimmy|C|1990-07-14|England|0|
-|Sweeting, Jake|HB||England|0|
-#### Salford Red Devils
-##### Players
-| Name | Type | Date of birth | Nationality | Events played |
-|---|---|---|---|---|
-|Lolohea, Tuimoala|UB|1995-01-23|Tonga|20|
-|Sio, Ken|W|1990-10-29|Australia|18|
-|Livett, Harvey|C|1977-01-10|England|18|
-|Williams, Rhys|W|1989-12-08|Wales|18|
-|Ackers, Andy|HO|1993-12-25|England|16|
-|Atkin, Chris|SH|1993-02-07|England|15|
-|Escare, Morgan|FB|1991-10-18|France|13|
-|Ormondroyd, Jack|BR|1991-11-07|England|12|
-|Sarginson, Dan|HB|1993-05-26|Australia|11|
-|Inu, Krisnan|C|1987-03-17|New zealand|10|
-|Brown, Kevin|HB|1984-10-02|England|10|
-|Mossop, Lee|PR|1989-01-17|England|10|
-|Lannon, Ryan|BR|1996-01-11|England|10|
-|Taylor, Elijah|HO|1990-02-27|New zealand|10|
-|Johnson, Josh|PR|1994-07-25|England|10|
-|Costello, Matthew|FB|1998-04-09|England|9|
-|Burke, Greg|PR|1993-02-12|England|9|
-|Ikahihifo, Sebastine|PR|1991-01-27|New zealand|8|
-|Burgess, Joe|W|1994-10-14|England|8|
-|Watkins, Kallum|C|1991-03-12|England|6|
-|Addy, Daniel|BR|1991-01-15|Scotland|6|
-|Roberts, Oliver|BR|1995-12-24|Ireland|6|
-|Kear, Elliot|FB|1988-11-29|Wales|5|
-|Wells, Jack|BR|1997-09-21|England|5|
-|Patton, Declan|HB|1995-05-25|England|5|
-|Greenwood, James|PR|1991-06-07|England|5|
-|Robson, Ellis|BR|1998-09-14|England|4|
-|Pauli, Pauli|PR|1994-08-04|Australia|3|
-|Hingano, Ata|HB|1997-03-11|Tonga|3|
-|Davies, Ben|C|2000-04-21|England|2|
+|Robinson, Reece|W|1987-06-13|Lebanon|3|
+|Radradra Waqavatu, Semi|C|1992-06-13|Fiji|3|
+|Hopoate, Will|UB|1992-05-09|Tonga|3|
+|Morgan, Ryan|C|1990-05-04|Australia|3|
+|Faraimo, Bureta|W|1990-07-16|United states|3|
+|Norman, Corey|FB|1991-02-03|Australia|3|
+|Kelly, Luke|HB|1989-10-13|Australia|3|
+|Paulo, Junior|PR|1983-09-08|Samoa|3|
+|De Gois, Isaac|HO|1984-12-24|Australia|3|
+|Ma'u, Manu|BR|1988-08-24|Tonga|3|
+|Moeroa, Tepai|BR|1995-10-02|Cook islands|3|
+|Gower, David|BR|1985-09-30|Australia|3|
+|Abrahams, Keenan||1991-08-07||2|
+|Mannah, Tim|PR|1988-02-15|Lebanon|2|
 |Lussick, Darcy|PR|1989-06-06|Australia|1|
-|Luckley, Sam|PR|1995-11-29|Scotland|0|
-|Dan Norman|UF|1997-09-08|Ireland|0|
-|Aspey, Connor||||0|
-#### Hull FC
+|Pauli, Pauli|PR|1994-08-04|Australia|0|
+|Paulo, Joseph|BR|1988-01-02|Samoa|0|
+|Terepo, Peni|BR|1991-11-21|Tonga|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Sao, Liligiifo|PR|1992-10-11|New zealand|20|
-|Sneyd, Marc|SH|1991-02-09|England|19|
-|Houghton, Danny|HO|1988-09-25|England|17|
-|Lane, Jordan|BR|1997-10-20|England|17|
-|Ma'u, Manu|BR|1988-08-24|Tonga|17|
-|Swift, Adam|UB|1993-02-20|England|17|
-|Tuimavave, Carlos|C|1992-01-10|New zealand|17|
-|Connor, Jake|UB|1994-10-18|England|16|
-|Savelio, Andre|UF|1995-03-21|England|16|
-|Satae, Tevita|PR|1992-10-22|New zealand|15|
-|Fonua, Mahe|C|1992-12-24|Tonga|14|
-|Faraimo, Bureta|W|1990-07-16|United states|14|
-|Reynolds, Josh|HB|1989-04-13|Australia|12|
-|Scott, Cameron|C|1999-10-07|England|10|
-|Cator, Joe|BR|1998-06-15|England|9|
-|Griffin, Josh|C|1990-05-09|England|8|
-|McNamara, Ben|HB|2001-12-18|England|8|
-|Johnstone, Jordan|SH|1997-05-24|England|5|
-|Wynne, Connor|FB|2001-01-15|England|5|
-|Taylor, Scott|PR|1991-02-27|England|4|
-|Fash, Bradley|UF|1996-01-24|England|4|
-|Vulikijapani, Mitieli|W||Fiji|4|
-|Shaul, Jamie|FB|1992-07-01|England|3|
-|Logan, Jack|C|1995-09-08|England|1|
-|Walker, Marcus|||England|1|
-|Bowden, Josh|PR|1992-01-14|England|0|
-|Brown, Jack|PR|2000-06-25|England|0|
-|Burrell, Aidan|||England|0|
-|Hookem, Jacob|||England|0|
-#### Hull Kingston Rovers
+|Stewart, Brett|FB|1985-02-27||3|
+|Taufua, Jorge|C|1991-10-23|Australia|3|
+|Matai, Steve|C|1984-08-05|New zealand|3|
+|Hiku, Peta|FB|1992-12-04|New zealand|3|
+|Foran, Kieran|HB|1990-07-13|New zealand|3|
+|Cherry-Evans, Daly|HB|1989-02-20|Australia|3|
+|Trbojevic, Jake|PR|1994-02-18|Australia|3|
+|Sao, Liligiifo|PR|1992-10-11|New zealand|3|
+|Mateo, Feleti|SR|1984-06-02|Australia|3|
+|Horo, Justin|UF|1986-09-07|New zealand|3|
+|Leary, Blake|SR|1990-12-04|Australia|3|
+|Lyon, Jamie|SO|1982-01-24|Australia|2|
+|Ballin, Matt|HO|1984-01-05|Australia|1|
+|Abrahams, Keenan||1991-08-07||1|
+|Mason, Willie|PR|1980-04-15|New zealand|1|
+|Trbojevic, Tom|FB|1996-10-02|Australia|1|
+|Hodges, Jayden|HO|1993-10-09||1|
+|Sene-Lefao, Jesse|BR|1989-12-08|New zealand|0|
+|Chee Kam, Michael|BR|1992-02-26|New caledonia|0|
+|Hasson, James|PR|1992-01-05|Ireland|0|
+|Starling, Josh|PR|1990-05-18|Australia|0|
+|Lui, Dunamis|PR|1990-02-16|Samoa|0|
+|Symonds, Tom|SR|1989-02-17|Australia|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Kenny-Dowall, Shaun|W|1988-01-23|New zealand|22|
-|Linnett, Kane|C|1989-01-11|Scotland|22|
-|Hall, Ryan|W|1987-11-27|England|20|
-|Crooks, Ben|C|1993-06-15|England|19|
-|Takairangi, Brad|C|1989-06-14|Cook islands|19|
-|King, George|PR|1995-02-24|Ireland|17|
-|Johnson, Luis|BR|1999-02-20|England|17|
-|Parcell, Matt|HO|1992-10-30|Australia|16|
-|Abdull, Jordan|HB|1996-02-05|England|15|
-|Lawler, George|HB|1995-09-01|England|14|
-|Minikin, Greg|C|1995-03-29|England|13|
-|Quinlan, Adam|FB|1992-11-13|Australia|12|
-|Lewis, Mikey|HB|2001-07-04|England|12|
-|Hadley, Dean|BR|1992-08-05|England|11|
-|Maher, Will|PR|1995-11-04|England|11|
-|Milnes, Rowan|HB|1999-09-01|England|10|
-|Litten, Jez|SH|1998-03-10|England|6|
-|Sims, Korbin|UF|1992-01-02|Fiji|5|
-|Vete, Albert|PR|1993-01-24|New zealand|5|
-|Storton, Matthew|BR|1999-03-10|England|5|
-|Dagger, Will|C|1999-02-21|England|5|
-|Ryan, Ethan|C|1996-05-12|Ireland|4|
-|Keinhorst, Jimmy|C|1990-07-14|England|4|
-|Mustapha, Muizz|BR||England|1|
-|Keyes, Joe|HB|1995-09-17|Ireland|1|
-|Minchella, Elliott|BR|1996-01-28|England|0|
-|Tate, Will|W|2001-12-20|England|0|
-#### Huddersfield Giants
+|Mamo, Jake|FB|1994-06-06|Australia|3|
+|Ross, Nathan|W|1988-11-04|Australia|3|
+|Mata'utia, Sione|FB|1996-06-25|Samoa|3|
+|Gagai, Dane|UB|1991-01-03|Australia|3|
+|Uate, Akuila|PR|1987-10-06|Fiji|3|
+|Gidley, Kurt|SO|1982-06-07|Australia|3|
+|Roberts, Tyrone|HB|1991-06-01|Australia|3|
+|Snowden, Kade|PR|1986-12-31|Australia|3|
+|Clydesdale, Adam|HO|1993-02-13|Australia|3|
+|Sims, Korbin|UF|1992-01-02|Fiji|3|
+|Sims, Tariq|PR|1990-02-09|Australia|3|
+|Houston, Chris|SR|1985-02-15|Australia|2|
+|Smith, Jeremy|SR|1980-04-14|New zealand|2|
+|Scott, Beau|BR|1984-05-15|Australia|2|
+|Abrahams, Keenan||1991-08-07||1|
+|Randell, Tyler|UF|1992-08-31|Australia|0|
+|Tapine, Joseph|BR|1994-05-04|New zealand|0|
+|Newton, Clint||1981-06-18|United states|0|
+|Mataora, Sam|SR|1990-10-20|Australia|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Jones, Josh|C|1993-05-12|England|22|
-|Cudjoe, Leroy|C|1988-04-07|England|19|
-|Yates, Luke|L|1995-03-06|Australia|18|
-|Wardle, Jake|C|1998-11-18|England|18|
-|McGillvary, Jermaine|W|1988-05-16|England|15|
-|McQueen, Chris|FB|1987-03-08|England|15|
-|Greenwood, Joe|PR|1993-04-02|England|14|
-|Cogger, Jack|HB|1997-08-05|Australia|14|
-|Leutele, Ricky|C|1990-04-10|Samoa|13|
-|Russell, Oliver|SH|1998-09-21|England|12|
-|Peats, Nathan|HO|1990-10-05|Australia|12|
-|Wood, Sam|C|1997-06-11|England|11|
-|Golding, Ash|FB|1996-09-04|Jamaica|10|
-|Senior, Louis|W|2000-05-31|Ireland|10|
-|McIntosh, Darnell|W|1997-07-05|England|9|
-|Gavet, James|PR|1989-10-19|Australia|9|
-|Wilson, Oliver|PR|1999-03-22|England|9|
-|Trout, Owen|BR|1999-10-15|England|9|
-|Pryce, Will|FB|2002-05-12|England|9|
-|Gaskell, Lee|C|1990-10-28|England|8|
-|Cunningham, James|HO|1994-04-03|England|8|
-|Edwards, Kenny|BR|1989-09-13|New zealand|8|
-|Lawrence, Mike|W|1990-04-12|Jamaica|8|
-|Ashall-Bott, Oliver|W|1997-11-24|England|8|
-|Sezer, Aidan|HB|1991-06-24|Australia|6|
-|English, Matty|PR|1997-11-14|England|2|
-|Ashworth, Jack|BR|1995-07-03|England|2|
-|O'Brien, Adam|HO|1993-07-11|England|1|
-|Wardle, Joe|C|1991-09-22|England|0|
-|Hewitt, Sam|C|1999-04-29|England|0|
-|Peteru, Nathaniel|PR|1992-01-01|New zealand|0|
-|Stevens, Robson|PR||England|0|
-#### Leigh Leopards
+|Peyroux, Dominique|C|1989-01-21|Cook islands|3|
+|Kata, Solomone|C|1994-12-03|Tonga|3|
+|Wright, Jonathan|C|1987-03-08|Australia|3|
+|Lino, Mason|HB|1994-02-04|Samoa|3|
+|Lolohea, Tuimoala|UB|1995-01-23|Tonga|3|
+|Friend, Nathan|HO|1981-02-28|Australia|3|
+|Vete, Albert|PR|1993-01-24|New zealand|3|
+|Hoffman, Ryan|BR|1984-01-26|Australia|3|
+|Mannering, Simon|BR|1986-08-28|New zealand|3|
+|Tomkins, Sam|FB|1989-03-23|England|2|
+|Thompson, Bodene|UF|1988-08-01|New zealand|2|
+|Allwood, Matthew|C|1992-11-16|Australia|2|
+|Maumalo, Ken|W|1994-07-16|Samoa|1|
+|Lillyman, Jacob|PR|1984-03-07|Australia|1|
+|Lousi, Sione|LF|1989-10-08||1|
+|Ikahihifo, Sebastine|PR|1991-01-27|New zealand|1|
+|Abrahams, Keenan||1991-08-07||1|
+|Townsend, Chad|HB|1991-01-20|Australia|1|
+|Matulino, Ben|PR|1989-01-03|New zealand|1|
+|Hurrell, Konrad|C|1991-08-05|Tonga|0|
+|Lisone, Sam|PR|1994-02-19|Samoa|0|
+|Gubb, Charlie|PR|1990-05-17|New zealand|0|
+|Palavi, John|PR|1992-12-31||0|
+|Faitala-Mariner, Raymond|BR|1993-07-26|New zealand|0|
+|Havili, Siliva|HO|1993-02-18|Tonga|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Hellewell, Ben|W|1992-01-30|Scotland|22|
-|Thornley, Iain|UB|1991-09-11|England|19|
-|Brierley, Ryan|HB|1992-02-13|Scotland|17|
-|Hood, Liam|SH|1992-01-06|Scotland|16|
-|Bell, James|BR|1994-04-02|Scotland|16|
-|Mellor, Joe|HB|1990-11-28|England|15|
-|Sa'u, Tafeaga Junior|C|1987-04-18|New zealand|15|
-|Thompson, Jordan|UF|1991-09-04|England|13|
-|Brand, Keenan|C|1999-01-08|Ireland|12|
-|Russell, Matthew|FB|1993-06-06|Scotland|12|
-|Ioane, Mark|PR|1990-12-03|New zealand|10|
-|Sidlow, Adam|PR|1987-10-25|England|10|
-|Reynolds, Ben|UB|1994-01-15|Australia|10|
-|Elliot, Brendan|W|1994-01-01|Australia|10|
-|Gee, Matty|C|1994-12-12|England|9|
-|Mullen, Craig|HB|1988-01-15|England|9|
-|Tierney, Lewis|W|1994-10-20|Scotland|8|
-|McCarthy, Tyrone|C|1988-04-21|Ireland|8|
-|Gerrard, Alex|PR|1991-11-05|England|6|
-|Gelling, Anthony|C|1990-10-18|Cook islands|6|
-|Logan, Jack|C|1995-09-08|England|5|
-|Stone, Sam|BR|1997-08-04|Australia|5|
-|Eaves, Josh|HO|1997-10-20|England|4|
-|Foster, Matthew|BR|2001-06-25|England|4|
-|Mason, Nathan|PR|1993-09-08|England|4|
-|Ellis, Jamie|SH|1989-10-04|England|4|
-|Butler, Rob|PR|1998-05-15|England|3|
-|Wallace, Blake|HB|1992-06-18|Australia|2|
-|Peteru, Nathaniel|PR|1992-01-01|New zealand|2|
-|Wildie, Matthew|HO|1990-10-25|England|2|
-|Flower, Ben|PR|1987-10-19|Wales|2|
-|Peats, Nathan|HO|1990-10-05|Australia|2|
-|Whitbread, Jai|PR|1998-01-16|Australia|2|
-|Simm, Josh|C|2001-02-27|England|1|
-|Ashworth, Jack|BR|1995-07-03|England|1|
-|Nisbet, Tom|FB||England|1|
-|Spencer, Tom|PR|1991-01-02|England|0|
-#### Catalans Dragons
+|Hoffman, Josh|W|1988-03-10|Australia|3|
+|Mead, David|FB|1988-11-04|Papua new guinea|3|
+|Roberts, James|C|1993-03-03|Australia|3|
+|MacDonald, Nene|C|1984-05-11|Papua new guinea|3|
+|Taylor, David|PR|1988-07-08|Australia|3|
+|Elgey, Kane|SH|1994-01-14|Australia|3|
+|Douglas, Luke|PR|1986-05-12|Scotland|3|
+|Mortimer, Daniel|HB|1989-06-13|Australia|3|
+|Paasi, Agnatius|PR|1991-11-30|Tonga|3|
+|Loa, Kalifa Faifai|W|1990-01-29|New zealand|2|
+|Myles, Nate|SR|1985-06-24|Australia|2|
+|James, Ryan|PR|1991-07-20|Australia|2|
+|Falloon, Beau|HO|1987-05-21|Australia|2|
+|Abrahams, Keenan||1991-08-07||2|
+|Burr, Lachlan|UF|1992-09-27|Australia|2|
+|Bird, Greg|BR|1984-10-02|Australia|1|
+|Tighe, Brad||1984-04-05||1|
+|Pettybourne, Eddy|BR|1988-02-13|United states|0|
+|White, Matt|PR|1984-05-17||0|
+|Moseley, Kierran|HO|1994-05-14|Australia|0|
+|Robinson, Matt|SR|1990-03-09|New zealand|0|
+|Li, Leva|W|1994-11-26|Australia|0|
+#### 
 ##### Players
 | Name | Type | Date of birth | Nationality | Events played |
 |---|---|---|---|---|
-|Maloney, James|HB|1986-06-15|Australia|23|
-|Drinkwater, Josh|HB|1992-06-15|Australia|23|
-|McMeeken, Mike|BR|1994-05-10|England|23|
-|Davies, Tom|W|1997-01-11|England|22|
-|Whare, Dean|C|1990-01-22|New zealand|22|
-|Yaha, Fouad|W|1996-08-19|France|22|
-|Bousquet, Julian|PR|1991-07-18|France|21|
-|Langi, Samsoni|C|1993-06-11|France|21|
-|Tomkins, Sam|FB|1989-03-23|England|20|
-|Dudson, Gil|PR|1990-06-16|Wales|17|
-|Garcia, Benjamin|BR|1993-04-05|France|15|
-|Whitley, Matt|BR|1996-01-20|England|13|
-|Goudemand, Mickael|BR|1997-03-09|France|13|
-|McIlorum, Michael|HO|1988-01-10|England|12|
-|Jullien, Benjamin|C|1995-03-01|France|11|
-|Da Costa, Alrix|HO|1997-10-02|France|10|
-|Laguerre, Matthieu|C|1999-02-03|France|9|
-|Mourgue, Arthur|HB|1999-05-02|France|8|
-|Tomkins, Joel|BR|1987-03-21|England|7|
-|Dezaria, Jordan|BR|1996-11-06|France|3|
-|Franco, Romain|W|1998-06-05|France|3|
-|Le Cam, Corentin|BR|1999-06-08|France|3|
-|Rouge, César|HB|2002-10-03|France|2|
-|Seguier, Paul|PR|1997-09-08|France|1|
-|Baitieri, Jason|UF|1989-07-02|France|1|
-|Kasiano, Sam|PR|1990-09-21|Samoa|0|
-|Belmas, Lambert|PR|1997-08-11|France|0|
-|Chan, Joe|BR|2002-03-10|France|0|
-|Cozza, Matthew|PR|2002-04-12|France|0|
-|Brochon, Robin|W|2000-09-21|France|0|
+|Tedesco, James|FB|1993-01-08|Australia|3|
+|Nofoaluma, David|W|1993-11-28|Samoa|3|
+|Naiqama, Kevin|FB|1989-02-04|Fiji|3|
+|Simona, Tim|C|1991-11-20|New zealand|3|
+|Richards, Pat|W|1982-02-27|Australia|3|
+|Moses, Mitchell|HB|1994-09-16|Lebanon|3|
+|Brooks, Luke|HB|1994-12-21|Australia|3|
+|Woods, Aaron|PR|1991-03-13|Australia|3|
+|Farah, Robbie|HO|1984-01-23|Lebanon|3|
+|Sue, Sauaso|BR|1992-04-20|Samoa|3|
+|Sironen, Curtis|BR|1993-07-31|Australia|3|
+|Halatau, Dene|SR|1983-01-27|New zealand|2|
+|Lawrence, Chris|C|1988-10-19|Australia|2|
+|Taupau, Martin|PR|1990-02-03|Samoa|2|
+|Abrahams, Keenan||1991-08-07||1|
+|Lovett, Kyle|BR|1993-03-23|Australia|0|
+|Galloway, Keith|PR|1985-09-02|Australia|0|
+|Seumanufagai, Ava|PR|1991-06-03|New zealand|0|
+|Cherrington, Manaia|HO|1994-08-02|New zealand|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Coote, Lachlan|FB|1990-04-06|Scotland|6|
+|Feldt, Kyle|W|1992-02-09|Australia|6|
+|O'Neill, Justin|FB|1981-04-04|Australia|6|
+|Linnett, Kane|C|1989-01-11|Scotland|6|
+|Winterstein, Antonio|W|1988-05-30|Samoa|6|
+|Thurston, Johnathan|HB|1983-04-25|Australia|6|
+|Scott, Matthew|PR|1985-07-30|Australia|6|
+|Granville, Jake|HO|1989-02-07|Australia|6|
+|Lowe, Ethan|BR|1991-03-20|Australia|6|
+|Tamou, James|PR|1988-12-13|New zealand|5|
+|Taumalolo, Jason|BR|1993-05-31|Tonga|5|
+|Cooper, Gavin|C|1985-08-19|Australia|5|
+|Morgan, Michael|HB|1991-12-27|Australia|4|
+|Hannant, Ben|PR|1984-12-21||2|
+|Thompson, Ray|HB|1990-01-20|Australia|2|
+|Kostjasyn, Rory|UB|1987-06-06|Australia|0|
+|Hess, Coen|BR|1996-08-14|Australia|0|
+|Asiata, John|PR|1993-04-19|Tonga|0|
+|Spina, Ben|BR|1988-04-26|Australia|0|
+|Bolton, Scott|PR|1987-05-09|Australia|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Tuivasa-Sheck, Roger|FB|1993-05-06|New zealand|6|
+|Tupou, Daniel|W|1991-06-17|Tonga|6|
+|Ferguson, Blake|W|1990-03-20|Australia|6|
+|Maloney, James|HB|1986-06-15|Australia|6|
+|Friend, Jake|HO|1990-02-01|Australia|6|
+|Napa, Dylan|PR|1992-11-13|Cook islands|6|
+|Cordner, Boyd|BR|1992-06-09|Australia|6|
+|Guerra, Aidan|BR|1988-02-25|Australia|6|
+|Jennings, Michael|C|1988-04-20|Tonga|5|
+|Moa, Sam|PR|1986-06-14|Tonga|5|
+|Taukeiaho, Sio|BR|1992-01-03|Tonga|4|
+|Hastings, Jackson|UB|1996-01-04|Australia|4|
+|Elliot, Brendan|W|1994-01-01|Australia|3|
+|Kenny-Dowall, Shaun|W|1988-01-23|New zealand|3|
+|Pearce, Mitchell|SH|1989-04-07|Australia|2|
+|Aubusson, Mitchell|C|1987-10-01|Australia|2|
+|Waerea-Hargreaves, Jared|PR|1989-01-20|New zealand|1|
+|Liu, Isaac|PR|1991-04-26|New zealand|0|
+|Evans, Kane|PR|1992-01-09|Fiji|0|
+|Matagi, Suaia|PR|1988-03-23|Samoa|0|
+|Mitchell, Latrell|FB|1997-06-16|Australia|0|
+|McIlwrick, Matt|HO|1991-06-04|New zealand|0|
+|Manu, Willie|LF|1980-03-20|Australia|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Smith, Will|HB|1992-07-03|Australia|3|
+|Mansour, Josh|W|1990-06-17|Lebanon|3|
+|Brown, Lewis|C|1986-10-03|New zealand|3|
+|Yeo, Isaah|C|1994-11-06|Australia|3|
+|Simmons, David||1984-12-06||3|
+|Peachey, Tyrone|C|1991-08-08|New zealand|3|
+|McKendry, Sam|PR|1989-07-19|New zealand|3|
+|Koroisau, Apisai|HO|1992-11-07|Fiji|3|
+|Campbell-Gillard, Reagan|PR|1993-07-27|Australia|3|
+|Soward, Jamie|SH|1984-11-13||2|
+|Cartwright, Bryce|BR|1994-11-15|Australia|2|
+|Segeyaro, James|HO|1990-11-10|Papua new guinea|2|
+|Blake, Waqa|C|1994-10-26|Fiji|2|
+|Manu, Sika|BR|1987-01-22|Tonga|1|
+|Taylor, Elijah|HO|1990-02-27|New zealand|1|
+|Sopoaga, Tupou|L|1992-06-05|New zealand|1|
+|Whare, Dean|C|1990-01-22|New zealand|1|
+|Latimore, Jeremy|PR|1986-12-08|Australia|0|
+|Latu, Leilani|BR|1993-02-05|Tonga|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Morris, Brett|W|1986-08-23|Australia|5|
+|Rona, Curtis|W|1992-05-26|New zealand|5|
+|Morris, Josh|W|1986-08-23|Australia|5|
+|Lafai, Tim|C|1991-05-27|Samoa|5|
+|Perrett, Sam|W|1985-05-14|New zealand|5|
+|Mbye, Moses|UB|1993-08-13|Australia|5|
+|Cook, Damien|HO|1991-06-23|Australia|5|
+|Graham, James|PR|1985-09-10|England|5|
+|Jackson, Josh|BR|1991-01-08|Australia|5|
+|Pritchard, Frank|BR|1983-11-03|Samoa|5|
+|Eastwood, Greg|UF|1987-03-10|New zealand|4|
+|Reynolds, Josh|HB|1989-04-13|Australia|3|
+|Tolman, Aiden|PR|1988-11-10|Australia|3|
+|Hodkinson, Trent|SH|1988-08-31|Australia|2|
+|Kasiano, Sam|PR|1990-09-21|Samoa|2|
+|Perrett, Lloyd|PR|1994-12-19|New zealand|0|
+|Lane, Shaun|BR|1994-11-29|Australia|0|
+|Klemmer, David|PR|1993-12-22|Australia|0|
+|Browne, Tim|PR|1987-12-27|Australia|0|
+|Fualalo, Danny|PR|1994-10-20|Australia|0|
+|Stanley, Chase|C|1989-05-31|Australia|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Gordon, Michael|UB|1983-10-24|Australia|5|
+|Feki, Sosaia|C|1991-05-09|New zealand|5|
+|Beale, Gerard|C|1990-07-19|New zealand|5|
+|Leutele, Ricky|C|1990-04-10|Samoa|5|
+|Holmes, Valentine|W|1995-07-24|Australia|5|
+|Bird, Jack|C|1995-03-20|Australia|5|
+|Robson, Jeff|HB|1982-08-05|Australia|5|
+|Heighington, Chris|BR|1982-01-14|England|5|
+|Ennis, Michael|HO|1984-03-16|Australia|5|
+|Tagataese, Sam|PR|1986-12-08|Samoa|5|
+|Lewis, Luke|BR|1983-08-11|Australia|5|
+|Graham, Wade|HB|1990-10-25|Australia|5|
+|Gallen, Paul|UF|1981-08-14|Australia|4|
+|Abrahams, Keenan||1991-08-07||1|
+|Prior, Matt|PR|1987-05-27|Australia|0|
+|Tupou, Anthony|SR|1983-03-01|Wales|0|
+|Arona, Tinirau|PR|1989-05-08|Cook islands|0|
+|Bukuya, Jason|BR|1989-04-21|Australia|0|
+|Barba, Ben|HB|1989-06-13|Australia|0|
+|Fifita, Andrew|PR|1989-06-28|Tonga|0|
+|Fifita, David|PR|1989-06-28|Australia|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Lee, Edrick|W|1992-09-18|Australia|3|
+|Croker, Jarrod|C|1990-09-11|Australia|3|
+|Waqa, Sisa|FH|1986-04-29|Fiji|3|
+|Williams, Sam|HB|1991-03-18|Australia|3|
+|Nuuausala, Frank-Paul|PR|1987-02-13|New zealand|3|
+|Hodgson, Josh|HO|1989-10-31|England|3|
+|Shillington, David|PR|1983-06-24|Australia|3|
+|Papalii, Josh|BR|1992-05-13|Samoa|3|
+|Kennedy, Jarrad|SR|1989-02-27|Australia|3|
+|Fensom, Shaun|BR|1988-10-10|Australia|3|
+|Wighton, Jack|W|1993-02-04|Australia|2|
+|Austin, Blake|HB|1991-02-01|Australia|2|
+|Lee, Brenko|W|1995-10-10|Australia|2|
+|Leilua, Joseph|C|1991-12-12|Samoa|1|
+|Rapana, Jordan|W|1989-08-15|New zealand|1|
+|Cornish, Mitchell|HB|1993-01-28|Australia|1|
+|Baptiste, Kurt|HO|1991-03-15|Australia|0|
+|Vaughan, Paul|PR|1991-04-23|Italy|0|
+|Boyd, Shannon|PR|1992-09-09|Australia|0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Dugan, Josh|FB|1990-05-10|Australia|4|
+|Aitken, Euan|C|1995-06-16|Scotland|4|
+|Mata'utia, Peter|C|1990-11-02|Samoa|4|
+|Marshall, Benji|HB|1985-02-25|New zealand|4|
+|Ah Mau, Leeson|PR|1989-12-20|Samoa|4|
+|Rein, Mitch|HO|1990-04-26|Australia|4|
+|Cooper, Mike|PR|1988-09-15|England|4|
+|Frizell, Tyson|BR|1991-10-09|Australia|4|
+|Merrin, Trent|PR|1989-10-07|Australia|4|
+|Marketo, Jake|BR|1989-02-17|Australia|3|
+|Nightingale, Jason|W|1986-09-20|New zealand|3|
+|Farrell, Dylan|C|1991-05-15|Australia|2|
+|Widdop, Gareth|FB|1989-03-12|England|2|
+|Nabuli, Eto|W|1988-08-24|Fiji|2|
+|Hutchison, Drew|HB|1995-04-26|Australia|2|
+|Hunt, Justin|FB|1988-09-20|Australia|1|
+|Thompson, Joel|C|1988-08-24|Australia|1|
+|Abrahams, Keenan||1991-08-07||1|
+|Garvey, Craig|HO|1993-04-28|Australia|0|
+|Creagh, Ben|SR|1985-02-06|Australia|0|
+|De Belin, Jack|UF|1991-03-17|Papua new guinea|0|
+|Ioane, Mark|PR|1990-12-03|New zealand|0|
+|Rose, George||1983-03-13||0|
+|Green, Nathan|C|1992-04-01||0|
+#### 
+##### Players
+| Name | Type | Date of birth | Nationality | Events played |
+|---|---|---|---|---|
+|Munster, Cameron|FB|1994-09-13|Australia|5|
+|Koroibete, Marika|W|1992-07-26|Australia|5|
+|Chambers, William|C|1988-05-26|Australia|5|
+|Mann, Kurt|UB|1993-03-01|Australia|5|
+|Duffie, Matthew|W|1990-08-16|New zealand|5|
+|Green, Blake|SH|1986-09-19|Australia|5|
+|Cronk, Cooper|SH|1983-12-05|Australia|5|
+|Bromwich, Jesse|PR|1989-05-03|New zealand|5|
+|Smith, Cameron|HO|1983-06-18|Australia|5|
+|Glasby, Tim|PR|1989-04-27|Australia|5|
+|Proctor, Kevin|BR|1989-02-28|New zealand|5|
+|Harris, Tohu|BR|1992-01-07|New zealand|5|
+|Hinchcliffe, Ryan|HO|1984-10-07|Australia|3|
+|Bromwich, Ken|PR|1991-08-22|New zealand|2|
+|Abrahams, Keenan||1991-08-07||1|
+|McLean, Jordan|PR|1991-10-08|Australia|0|
+|Welch, Christian|PR|1994-07-19|Australia|0|
+|Finucane, Dale|PR|1991-09-07|Australia|0|
+|Weston, Dayne|PR|1986-12-15|Australia|0|

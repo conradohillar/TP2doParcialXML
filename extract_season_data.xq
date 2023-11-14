@@ -45,11 +45,12 @@ declare function local:player_getter($xml as document-node(), $competitor as ele
 };
 
 declare function local:competitor_lineup_getter($xml as document-node(), $competitors as element()*) as element()* {
-    
-    for $competitor in $competitors
+    let $competitorids := $xml//competitor[@id=$competitors/@id]/@id
+    for $uniquecompetitor in distinct-values($competitorids)
+    let $competitor := ($xml//competitor[@id=$uniquecompetitor])[1]
     return element competitor {
         attribute id {$competitor/@id},
-        <name>{$competitor/name/string()}</name>,
+        <name>{$competitor/@name}</name>,
         <players>{local:player_getter($xml, $competitor)}</players>
     }
 };

@@ -40,7 +40,7 @@ declare function local:player_getter($xml as document-node(), $competitor as ele
         <type>{$p/@type/string()}</type>,
         <date_of_birth>{$p/@date_of_birth/string()}</date_of_birth>,
         <nationality>{$p/@nationality/string()}</nationality>,
-        <events_played>{count($xml//player[@id = $xml//player[@id = $player][1]/@id and @played = "true"])}</events_played>    
+        <events_played>{count($xml//player[@id = $xml//player[@id = $player][1]/@id and @played = "true" and ../../@id=$competitor/@id])}</events_played>    
     }
 };
 

@@ -16,6 +16,7 @@ if [ -z $API_KEY ]; then
 fi
 
 rm *.xml 2> /dev/null || true
+rm season_page.md
 
 echo "Processing league: $1 $2"
 
@@ -52,8 +53,10 @@ sleep $delay
 # Delete namespace from seasons.xml
 sed -i'' -e 's@xmlns="http://schemas.sportradar.com/sportsapi/rugby-league/v3"@@g' season_lineups.xml
 sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby-league/v3 https://schemas.sportradar.com/sportsapi/rugby-league/v3/schemas/season_lineups.xsd"@@g' season_lineups.xml
+rm *.xml-e 2> /dev/null || true
 
 echo "Downloaded season_lineups.xml"
+
 
 # Generate season_data.xml with xQuery
 java net.sf.saxon.Query -q:extract_season_data.xq season_prefix=$1 season_year=$2 > season_data.xml

@@ -31,7 +31,7 @@ sed -i'' -e 's@xsi:schemaLocation="http://schemas.sportradar.com/sportsapi/rugby
 echo "Downloaded seasons.xml"
 
 # Get season_id from seasons.xml with xQuery
-season_id=`java net.sf.saxon.Query -q:extract_season_id.xq season_prefix=$1 season_year=$2 | cut -d ">" -f 2`
+season_id=`java net.sf.saxon.Query -q:extract_season_id.xq season_prefix="$1" season_year=$2 | cut -d ">" -f 2`
 
 
 echo "Selected season with id ${season_id}"
@@ -59,7 +59,7 @@ echo "Downloaded season_lineups.xml"
 
 
 # Generate season_data.xml with xQuery
-java net.sf.saxon.Query -q:extract_season_data.xq season_prefix=$1 season_year=$2 > season_data.xml
+java net.sf.saxon.Query -q:extract_season_data.xq season_prefix="$1" season_year=$2 > season_data.xml
 
 echo Generated extract_season_data.xml
 
